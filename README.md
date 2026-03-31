@@ -99,6 +99,15 @@ pi-cloud-server/
 ```
 
 ---
+# PCB DESIGN:
+<img width="1247" height="973" alt="image" src="https://github.com/user-attachments/assets/5278bfda-9c32-47a3-af0d-71c7a102c26c" />
+this a pcb board made to connect pi to its pin using connector that give pi an extra ports and hdmi port and a cooling system can also be connected using those ports 
+
+# CAD DESIGN OF  A DATA BASE:
+
+![Uploading image.png…]()
+This is a full body of a database the front can be removed and attached so we can add the component very well you can checkouut the parts it is divided into 2 part front and back there is a slot to add your ssd so they stay unshaken and there are ports cut for your pi ports and also for the xternal board that i mentioned before..
+
 
 
 
