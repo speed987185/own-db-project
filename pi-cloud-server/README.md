@@ -110,6 +110,8 @@ pi-cloud-server/
 - Power supply
 - Ethernet cable or WiFi connection
 
+ # i have made a external pcb board for more connection you can look for it in the pcb and shemantic folder.
+
 ### Software Requirements
 
 - Raspberry Pi OS (Bullseye or newer)
