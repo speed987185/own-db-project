@@ -1,101 +1,26 @@
-# Pi Cloud Server - Git Ignore
-# ============================
-
-# Environment
-.env
-.env.local
-.env.*.local
-venv/
-env/
-ENV/
-.venv/
-
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
 *.so
 .Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
+venv/
+.venv/
 
-# Flask
-instance/
-.webassets-cache
-
-# Database
-*.db
-*.sqlite3
-
-# Logs
-logs/
-*.log
-
-# Storage (keep folder, ignore contents)
-storage/*
-!storage/.gitkeep
+# Environment
+.env
 
 # IDE
 .idea/
 .vscode/
 *.swp
-*.swo
-*~
-.project
-.pydevproject
-.settings/
 
 # OS
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
 
-# Coverage
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
+# Storage
+storage/*
+!storage/.gitkeep
 
-# Pytest
-.pytest_cache/
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Uploads (if using different folder)
-uploads/
-
-# Temporary files
-tmp/
-temp/
-*.tmp
-*.temp
-
-# ngrok
-ngrok.yml
+# Logs
+*.log
