@@ -8,23 +8,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-1. [Project Description](#-project-description)
-2. [Features](#-features)
-3. [Architecture](#-architecture)
-4. [Folder Structure](#-folder-structure)
-5. [Prerequisites](#-prerequisites)
-6. [Complete Setup Guide](#-complete-setup-guide)
-7. [Running the Server](#-running-the-server)
-8. [API Documentation](#-api-documentation)
-9. [Accessing from Other Devices](#-accessing-from-other-devices)
-10. [Exposing Online with ngrok](#-exposing-online-with-ngrok)
-11. [Troubleshooting](#-troubleshooting)
-12. [Security Considerations](#-security-considerations)
-
----
-
 ##  Project Description :
 
 this is a project by me and my friends we made a our very own data base using the pi power and run on the software made by us in debian linux . this project wsa made to complete our neccesaries and why not to include it to the blueprints as we all love it..
