@@ -1,6 +1,9 @@
-# Pi Cloud Server - Project Roadmap
+# Pi Cloud Server - Project
 
-## ✅ Completed Features
+# Description:
+this is a project by me and my friends we made a our very own data base using the pi power and run on the software made by us in debian linux . this project wsa made to complete our neccesaries and why not to include it to the blueprints as we all love it..
+
+## Features of it:
 
 - [x] Project structure setup
 - [x] Flask application factory
@@ -21,14 +24,10 @@
 - [x] Automated setup script
 - [x] Comprehensive README
 
----
 
-## 🔄 In Progress
 
-- [ ] Testing on actual Raspberry Pi hardware
-- [ ] Performance optimization for large files
 
----
+
 
 ## 📋 Planned Features
 
@@ -87,15 +86,11 @@
 
 ---
 
-## 🐛 Known Issues
 
-1. Large file uploads may timeout on slow connections
-2. No automatic cleanup of orphaned files
-3. Limited file type validation
 
 ---
 
-## 💡 Ideas for Future
+##  Ideas for Future
 
 - Multi-user support with quotas
 - End-to-end encryption
@@ -106,12 +101,12 @@
 
 ---
 
-## 📝 Notes
+##  Notes
 
 - Target platform: Raspberry Pi 4 (4GB+ RAM recommended)
 - Recommended storage: External SSD via USB 3.0
 - Tested on: Raspberry Pi OS Bullseye
 
----
+
 
 _Last updated: 2024-01-15_
