@@ -1,6 +1,6 @@
-# 🍓 Pi Cloud Server
+# Pi Cloud Server
 
-## A alternative to big data bases for personal uses
+## A alternative to big databases for our personal uses
 
 **Version:** 1.0.0  
 **Author:** Your Name  
